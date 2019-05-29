@@ -1,0 +1,23 @@
+{
+	"name": "mobile",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"run": "node index.js"
+	},
+	"keywords": [],
+	"author": "yanglei",
+	"bugs": {
+		"url": "https://github.com/247521776/mobile/issues"
+	},
+	"homepage": "https://github.com/247521776/mobile",
+	"devDependencies": {},
+	"dependencies": {
+		"excel4node": "^1.7.2",
+		"iconv-lite": "^0.4.24",
+		"node-xlsx": "^0.15.0",
+		"request": "^2.88.0",
+		"request-promise": "^4.2.4",
+		"urlencode": "^1.1.0"
+	}
+}
