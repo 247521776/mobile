@@ -1,6 +1,6 @@
 {
 	"name": "yanglei-mobile",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"main": "index.js",
 	"scripts": {
 		"run": "node index.js"
