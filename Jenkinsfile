@@ -23,7 +23,7 @@ podTemplate(label: label, cloud: 'kubernetes',
         stage('Run Publish') {
             script {
                 container('wtctl') {
-                    sh "wtctl --token=f43b59f3-81bb-4c29-b8f0-6e7558dc0e39 --test"
+                    sh "wtctl --test"
                 }
             }
         }
